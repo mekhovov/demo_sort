@@ -1,0 +1,14 @@
+h1. DemoSort: Data Sorting Methods
+
+Created in Lyceum of Information Technologies, 2000 year.
+
+Programming Language: Pascal.
+
+GUI Language: Russian.
+
+Distinctions: 3d place of the regional competition of the Ukrainian Small Academy of Science for the program "Data Sorting Methods" 15.03.2000, Lyceum of Information Technologies.
+
+* doc       - manual "Information sorting and searching", 02.12.2001, Dnepropetrovsk National University
+* programm  - compiled version
+* sources   - source code
+
